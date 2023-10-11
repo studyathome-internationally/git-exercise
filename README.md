@@ -1,2 +1,3 @@
 # git-exercise
-Changed locally: Is used for exercising git workflow and git commands
+Changed locally and remotely: Is used for exercising git workflow and git commands
+
